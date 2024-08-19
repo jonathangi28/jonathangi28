@@ -3,7 +3,7 @@
   <p>I’m open to new opportunities as a Frontend Web Developer.</p>
   <p>Passionate about bringing new ideas to life. Take a look at my projects.</p>
   <p>Let's connect on <a href="https://www.linkedin.com/in/jonathangillman01/" target="_blank">Linkedin</a>.</p>
-  <p>As I continue to learn the latest technologies I will list my skills below.</p>
+  <p>As I continue to learn the latest technologies I will update my skills below.</p>
 </div>
 
 <div id="skills">
