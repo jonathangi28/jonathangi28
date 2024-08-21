@@ -19,3 +19,7 @@
     </tr>
   </table>
 </div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangi28&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
