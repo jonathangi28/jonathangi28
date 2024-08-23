@@ -1,9 +1,9 @@
 <div id="bio">
-  <h1>👋🏻 Hi, my name is Jonathan, it is nice to meet you.</h1>
-  <p>I’m open to new opportunities as a Frontend Web Developer.</p>
-  <p>Passionate about bringing new ideas to life. Take a look at my projects.</p>
-  <p>Let's connect on <a href="https://www.linkedin.com/in/jonathangillman01/" target="_blank">Linkedin</a>.</p>
-  <p>As I continue to learn the latest technologies I will update my skills below.</p>
+  <h1>👋🏻 Hi, I’m Jonathan. I’m a passionate Frontend Web Developer.</h1>
+  <p>I’m open to new opportunities, collaborating, contributing, and helping out.</p>
+  <p>Let's connect, follow me and interact with my projects. I invite YOU to contribute to any of my projects.</p>
+  <p>Do you have a project that you'd like me to assist with? Send me a message and I'll take a look.</p>
+  <p>As I continue to learn the latest technologies I will update my skills below. Ultimate goal is to eventually become a Full Stack Developer.</p>
 </div>
 
 <div id="skills">
