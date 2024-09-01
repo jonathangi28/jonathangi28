@@ -20,5 +20,9 @@
 </div>
 
 <div>
+  <p>Take a look at my GitHub Gists. I cover common issues I have encountered so far with solutions. As I continue on my journey I'll be adding more how-tos and code snippets. <a href="https://gist.github.com/jonathangi28">Take a look here.</a></p>
+</div>
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangi28&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
