@@ -20,7 +20,13 @@
 </div>
 
 <div>
-  <p>Take a look at my GitHub Gists. I cover common issues I have encountered so far with solutions. As I continue on my journey I'll be adding more how-tos and code snippets. <a href="https://gist.github.com/jonathangi28">Take a look here.</a></p>
+  <p>Take a look at my GitHub Gists. I cover common issues I have encountered so far with solutions. As I continue on my journey I'll be adding more how-tos and code snippets.</p>
+  <ul>
+    <li><a href="https://gist.github.com/jonathangi28/6b381a067f90c2b54b4c6053bb6550a0">How To Install Multiple Node Versions On Your Mac</a></li>
+    <li><a href="https://gist.github.com/jonathangi28/323c9ca08fc80a5614a7b7ccd1220f38">How To Use the Vim Editor</a></li>
+    <li><a href="https://gist.github.com/jonathangi28/ec54ca47f0c9641677fac6fedc49b7d9">How To Use Git and GitHub</a></li>
+    <li><a href="https://gist.github.com/jonathangi28">Browse my other gists</a></li>
+  </ul>
 </div>
 
 <div>
