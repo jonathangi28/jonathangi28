@@ -1,7 +1,6 @@
 <div>
   <h1>Hi, I’m Jonathan 👋</h1>
   <p>I’m open to new opportunities, collaborating, contributing, and helping out.</p>
-  <p>Do you have a project that you'd like me to assist with? Send me a message and I'll take a look.</p>
   <p>As I continue to learn the latest technologies I will update my skills below.</p>
 </div>
 
