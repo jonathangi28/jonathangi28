@@ -1,6 +1,7 @@
 <div>
   <h1>Hi, I’m Jonathan 👋</h1>
-  <p>I’m open to new opportunities, collaborating, contributing, and helping out.</p>
+  <p>I enjoy building things. It’s like being the creator of my own world. I thrive on new challenges, love learning, and find great satisfaction in bringing my ideas to life.</p>
+  <p>I’m open to new opportunities, collaborating, contributing, and helping out. Let's put a dent in the universe!</p>
   <p>As I continue to learn the latest technologies I will update my skills below.</p>
 </div>
 
@@ -19,15 +20,6 @@
 </div>
 
 <div>
-  <p>Take a look at my GitHub Gists. I cover common issues I have encountered so far with solutions. As I continue on my journey I'll be adding more how-tos and code snippets.</p>
-  <ul>
-    <li><a href="https://gist.github.com/jonathangi28/6b381a067f90c2b54b4c6053bb6550a0">How To Install Multiple Node Versions On Your Mac</a></li>
-    <li><a href="https://gist.github.com/jonathangi28/323c9ca08fc80a5614a7b7ccd1220f38">How To Use the Vim Editor</a></li>
-    <li><a href="https://gist.github.com/jonathangi28/ec54ca47f0c9641677fac6fedc49b7d9">How To Use Git and GitHub</a></li>
-    <li><a href="https://gist.github.com/jonathangi28">Browse my other gists</a></li>
-  </ul>
+    <a href="https://gist.github.com/jonathangi28">Browse my gists</a>
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangi28&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</div>
