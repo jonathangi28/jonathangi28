@@ -2,7 +2,6 @@
   <h1>Hi, I’m Jonathan 👋</h1>
   <p>I enjoy building things. It’s like being the creator of my own world. I thrive on new challenges, love learning, and find great satisfaction in bringing my ideas to life.</p>
   <p>I’m open to new opportunities, collaborating, contributing, and helping out. Let's put a dent in the universe!</p>
-  <p>As I continue to learn the latest technologies I will update my skills below.</p>
 </div>
 
 <div>
