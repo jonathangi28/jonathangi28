@@ -1,7 +1,6 @@
 <div>
   <h1>Hi, I’m Jonathan 👋</h1>
   <p>I enjoy building things. It’s like being the creator of my own world. I thrive on new challenges, love learning, and find great satisfaction in bringing my ideas to life.</p>
-  <p>I’m open to new opportunities, collaborating, contributing, and helping out. Let's put a dent in the universe!</p>
 </div>
 
 <div>
@@ -17,8 +16,3 @@
     </tr>
   </table>
 </div>
-
-<div>
-    <a href="https://gist.github.com/jonathangi28">Browse my gists</a>
-</div>
-
