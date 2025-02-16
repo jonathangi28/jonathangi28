@@ -1,6 +1,6 @@
 <div>
-  <h1>Hi, I’m Jonathan 👋</h1>
-  <p>I enjoy building things. It’s like being the creator of my own world. I thrive on new challenges, enjoy learning, and find great satisfaction in bringing my ideas to life.</p>
+  <h1>Hi, I’m Jonathan</h1>
+  <p>I enjoy building things. It’s like being the creator of my own world.</p>
 </div>
 
 <div>
