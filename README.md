@@ -8,7 +8,7 @@
   <h3>App Development</h3>
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/swift/swift-original.svg" alt="Objective-C" width="50px" height="50px"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" alt="Objective-C" width="50px" height="50px"></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/swift/swift-original.svg" alt="Swift" width="50px" height="50px"></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-plain.svg" alt="C#" width="50px" height="50px"></td>    
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50px" height="50px"></td>          
@@ -26,7 +26,7 @@
   <h3>Backend</h3>
   <table>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="PHP" width="50px" height="50px"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50px" height="50px"></td>
     </tr>
   </table>  
 </div>
